@@ -28,7 +28,7 @@ use zip::ZipArchive;
 #[command(alias = "as")]
 #[command(alias = "aitrans")]
 #[command(author = "Antigravity Team")]
-#[command(version = "0.2.0")]
+#[command(version)]
 #[command(about = "AI CLI 全局配置迁移与同步工具 / AI CLI Configuration Migration & Sync Tool", long_about = None)]
 struct Cli {
     /// 界面显示语言 / Interface display language (zh, en, auto)
