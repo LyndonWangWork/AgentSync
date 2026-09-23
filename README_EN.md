@@ -43,8 +43,12 @@ Launch `agentsync` directly in your terminal to open the main menu:
 agentsync
 ```
 
+![Main Menu](screenshot1.jpg)
+
 #### Tree Select Keyboard & Mouse Shortcuts
 In the interactive tree view with AI tools as roots, navigate using your keyboard and mouse:
+
+![Tree Configuration Selector](screenshot2.jpg)
 
 | Input / Action | Description |
 | :--- | :--- |
